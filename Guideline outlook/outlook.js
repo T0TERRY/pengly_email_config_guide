@@ -16,7 +16,7 @@ const sections = [
     title: "Create Your Own Password",
     content:
       "Choose a strong password that contains a mix of letters, numbers, and symbols. This helps keep your Outlook account secure.",
-    image: "third-step.PNG",
+    image: "Third-step.PNG",
   },
   {
     title: "Name Your Outlook Account",
